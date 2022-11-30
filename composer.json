@@ -16,6 +16,12 @@
     "keywords": ["xls","Excel", "symfony2", "bundle"],
     "homepage": "http://www.welcometothebundle.com",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/SoftPassio/PHPExcel"
+        }
+    ],
     "require": {
         "php": ">=5.3.2",
         "phpoffice/phpexcel": "dev-sf4"
