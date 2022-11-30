@@ -18,7 +18,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.3.2",
-        "phpoffice/phpexcel": "~1.8.1"
+        "phpoffice/phpexcel": "dev-sf4"
     },
     "autoload": {
         "exclude-from-classmap": ["/Tests/"],
